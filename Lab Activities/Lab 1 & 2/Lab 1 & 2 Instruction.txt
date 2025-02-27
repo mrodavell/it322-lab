@@ -1,0 +1,9 @@
+Lab 1 & 2: Instruction
+Routing
+1. Create a new Laravel project
+2. Enable API routes
+3. Create CRUD (create, read, update, delete) routes for all tables present in lab.jpg
+
+Migration
+1. Create migration files to each tables reflected in lab.jpg
+2. Migrate the migration file to local MySQL or MariaDB database
